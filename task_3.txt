@@ -1,0 +1,1029 @@
+[0][0-2]\:[0-5][0-9]\:[0-5][0-9]
+367
+	Line 169: Date: Tue, 17 Oct 2000 02:26:00 -0700 (PDT)
+	Line 217: ""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+	Line 862: Date: Mon, 2 Oct 2000 02:19:00 -0700 (PDT)
+	Line 1034: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 1216: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 1985: Date: Fri, 22 Sep 2000 00:06:00 -0700 (PDT)
+	Line 2337: Date: Mon, 18 Sep 2000 02:34:00 -0700 (PDT)
+	Line 2503: Date: Tue, 12 Sep 2000 00:27:00 -0700 (PDT)
+	Line 2768: Date: Mon, 11 Sep 2000 02:19:00 -0700 (PDT)
+	Line 4404: Date: Fri, 25 Aug 2000 01:58:00 -0700 (PDT)
+	Line 4425: Date: Fri, 25 Aug 2000 01:47:00 -0700 (PDT)
+	Line 4460: Date: Thu, 24 Aug 2000 02:48:00 -0700 (PDT)
+	Line 4692: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+	Line 4734: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+	Line 4773: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+	Line 5069: Date: Thu, 10 Aug 2000 01:52:00 -0700 (PDT)
+	Line 5365: Date: Mon, 7 Aug 2000 02:14:00 -0700 (PDT)
+	Line 5534: Date: Mon, 7 Aug 2000 00:06:00 -0700 (PDT)
+	Line 5637: Date: Thu, 3 Aug 2000 00:12:00 -0700 (PDT)
+	Line 5882: Date: Tue, 18 Jul 2000 02:38:00 -0700 (PDT)
+	Line 6265: Date: Tue, 11 Jul 2000 02:50:00 -0700 (PDT)
+	Line 6282: Date: Tue, 11 Jul 2000 02:12:00 -0700 (PDT)
+	Line 7044: Date: Thu, 22 Jun 2000 00:26:00 -0700 (PDT)
+	Line 7596: Date: Fri, 26 May 2000 00:08:00 -0700 (PDT)
+	Line 7751: ""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
+	Line 7901: Date: Thu, 11 May 2000 01:16:00 -0700 (PDT)
+	Line 7946: Date: Fri, 28 Apr 2000 02:05:00 -0700 (PDT)
+	Line 8101: Date: Wed, 26 Apr 2000 01:42:00 -0700 (PDT)
+	Line 8129: Date: Wed, 26 Apr 2000 01:38:00 -0700 (PDT)
+	Line 8191: Date: Mon, 24 Apr 2000 00:00:00 -0700 (PDT)
+	Line 8368: Date: Thu, 30 Mar 2000 01:58:00 -0800 (PST)
+	Line 8547: Date: Fri, 24 Mar 2000 01:00:00 -0800 (PST)
+	Line 8575: Date: Thu, 23 Mar 2000 01:32:00 -0800 (PST)
+	Line 8631: Date: Wed, 22 Mar 2000 01:27:00 -0800 (PST)
+	Line 8667: Date: Wed, 22 Mar 2000 00:36:00 -0800 (PST)
+	Line 8719: Date: Mon, 20 Mar 2000 00:58:00 -0800 (PST)
+	Line 8812: Date: Wed, 15 Mar 2000 02:00:00 -0800 (PST)
+	Line 8997: Date: Mon, 13 Mar 2000 02:22:00 -0800 (PST)
+	Line 9265: Date: Fri, 3 Mar 2000 02:53:00 -0800 (PST)
+	Line 9283: Date: Fri, 3 Mar 2000 00:39:00 -0800 (PST)
+	Line 9454: Date: Mon, 21 Feb 2000 00:07:00 -0800 (PST)
+	Line 9492: ""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+	Line 9766: Date: Wed, 9 Feb 2000 02:27:00 -0800 (PST)
+	Line 9843: Date: Wed, 9 Feb 2000 02:12:00 -0800 (PST)
+	Line 9958: ""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+	Line 10184: enorman@living.com on 01/18/2000 02:44:50 PM
+	Line 10300: Date: Mon, 17 Jan 2000 00:47:00 -0800 (PST)
+	Line 10356: Date: Thu, 13 Jan 2000 02:30:00 -0800 (PST)
+	Line 10407: Date: Mon, 10 Jan 2000 02:29:00 -0800 (PST)
+	Line 10456: Date: Mon, 10 Jan 2000 01:43:00 -0800 (PST)
+	Line 10576: 02:49:43 AM
+	Line 10711: Date: Mon, 14 May 2001 01:39:00 -0700 (PDT)
+	Line 10867: Date: Thu, 10 May 2001 00:50:00 -0700 (PDT)
+	Line 10952: Date: Mon, 7 May 2001 02:28:00 -0700 (PDT)
+	Line 11246: Date: Fri, 4 May 2001 01:51:00 -0700 (PDT)
+	Line 11327: Date: Wed, 2 May 2001 00:36:00 -0700 (PDT)
+	Line 11939: Date: Thu, 26 Apr 2001 01:34:00 -0700 (PDT)
+	Line 12293: Date: Tue, 24 Apr 2001 02:27:00 -0700 (PDT)
+	Line 12323: Date: Tue, 24 Apr 2001 02:13:00 -0700 (PDT)
+	Line 12430: Date: Mon, 23 Apr 2001 02:41:00 -0700 (PDT)
+	Line 12600: Date: Wed, 18 Apr 2001 01:11:00 -0700 (PDT)
+	Line 12780: Date: Thu, 12 Apr 2001 02:59:00 -0700 (PDT)
+	Line 13077: Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+	Line 13158: Date: Mon, 9 Apr 2001 02:34:00 -0700 (PDT)
+	Line 13200: Date: Fri, 6 Apr 2001 02:40:00 -0700 (PDT)
+	Line 13254: Date: Wed, 4 Apr 2001 00:19:00 -0700 (PDT)
+	Line 13332: Date: Tue, 3 Apr 2001 01:53:00 -0700 (PDT)
+	Line 13375: Date: Tue, 3 Apr 2001 01:30:00 -0700 (PDT)
+	Line 13748: Date: Thu, 29 Mar 2001 02:19:00 -0800 (PST)
+	Line 13811: Date: Thu, 29 Mar 2001 02:11:00 -0800 (PST)
+	Line 13897: Date: Thu, 29 Mar 2001 02:03:00 -0800 (PST)
+	Line 14010: Date: Thu, 29 Mar 2001 01:41:00 -0800 (PST)
+	Line 14208: Date: Wed, 28 Mar 2001 01:56:00 -0800 (PST)
+	Line 14372: Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+	Line 14560: Date: Mon, 26 Mar 2001 02:58:00 -0800 (PST)
+	Line 14598: Date: Mon, 26 Mar 2001 02:03:00 -0800 (PST)
+	Line 14682: Date: Mon, 26 Mar 2001 00:35:00 -0800 (PST)
+	Line 14824: Date: Mon, 19 Mar 2001 02:00:00 -0800 (PST)
+	Line 14875: Date: Mon, 19 Mar 2001 01:36:00 -0800 (PST)
+	Line 14922: Date: Mon, 19 Mar 2001 00:45:00 -0800 (PST)
+	Line 15706: Date: Tue, 13 Mar 2001 01:10:00 -0800 (PST)
+	Line 16085: Date: Wed, 7 Mar 2001 02:36:00 -0800 (PST)
+	Line 16102: Date: Wed, 7 Mar 2001 01:52:00 -0800 (PST)
+	Line 16150: Date: Tue, 6 Mar 2001 02:55:00 -0800 (PST)
+	Line 16175: Date: Tue, 6 Mar 2001 02:45:00 -0800 (PST)
+	Line 16453: Date: Mon, 5 Mar 2001 01:38:00 -0800 (PST)
+	Line 16501: liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+	Line 16538: liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+	Line 16568: Date: Tue, 27 Feb 2001 00:58:00 -0800 (PST)
+	Line 16589: Date: Sat, 24 Feb 2001 01:24:00 -0800 (PST)
+	Line 16845: Date: Thu, 22 Feb 2001 00:45:00 -0800 (PST)
+	Line 16982: ""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+	Line 17019: ""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+	Line 17435: Date: Tue, 20 Feb 2001 01:38:00 -0800 (PST)
+	Line 17481: Date: Tue, 20 Feb 2001 01:09:00 -0800 (PST)
+	Line 17502: Date: Tue, 20 Feb 2001 00:46:00 -0800 (PST)
+	Line 17755: Date: Fri, 16 Feb 2001 02:15:00 -0800 (PST)
+	Line 17781: Date: Fri, 16 Feb 2001 01:48:00 -0800 (PST)
+	Line 17809: Date: Fri, 16 Feb 2001 00:52:00 -0800 (PST)
+	Line 18014: Date: Wed, 14 Feb 2001 00:24:00 -0800 (PST)
+	Line 18339: Date: Fri, 9 Feb 2001 01:27:00 -0800 (PST)
+	Line 18459: Date: Wed, 7 Feb 2001 01:58:00 -0800 (PST)
+	Line 18687: Date: Tue, 6 Feb 2001 01:52:00 -0800 (PST)
+	Line 18716: Date: Tue, 6 Feb 2001 01:01:00 -0800 (PST)
+	Line 18783: Date: Mon, 5 Feb 2001 00:45:00 -0800 (PST)
+	Line 19013: Date: Thu, 7 Dec 2000 01:09:00 -0800 (PST)
+	Line 20246: Date: Fri, 26 Jan 2001 01:57:00 -0800 (PST)
+	Line 20267: Date: Fri, 26 Jan 2001 01:55:00 -0800 (PST)
+	Line 20313: Date: Fri, 26 Jan 2001 01:41:00 -0800 (PST)
+	Line 20549: Date: Thu, 25 Jan 2001 02:11:00 -0800 (PST)
+	Line 20583: Date: Thu, 25 Jan 2001 00:17:00 -0800 (PST)
+	Line 20768: Date: Mon, 22 Jan 2001 01:24:00 -0800 (PST)
+	Line 20977: Date: Mon, 22 Jan 2001 00:38:00 -0800 (PST)
+	Line 20994: Date: Mon, 22 Jan 2001 00:34:00 -0800 (PST)
+	Line 21032: Date: Thu, 18 Jan 2001 02:12:00 -0800 (PST)
+	Line 21077: Date: Thu, 18 Jan 2001 02:08:00 -0800 (PST)
+	Line 21752: Date: Tue, 2 Jan 2001 01:36:00 -0800 (PST)
+	Line 21803: Date: Fri, 29 Dec 2000 02:14:00 -0800 (PST)
+	Line 22213: Date: Fri, 22 Dec 2000 01:54:00 -0800 (PST)
+	Line 22236: Date: Fri, 22 Dec 2000 01:21:00 -0800 (PST)
+	Line 22542: Date: Wed, 29 Nov 2000 02:02:00 -0800 (PST)
+	Line 22740: Date: Thu, 14 Dec 2000 02:11:00 -0800 (PST)
+	Line 22757: Date: Thu, 14 Dec 2000 02:08:00 -0800 (PST)
+	Line 22823: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+	Line 22902: Date: Fri, 17 Nov 2000 00:27:00 -0800 (PST)
+	Line 23402: SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+	Line 23600: Date: Thu, 2 Nov 2000 02:36:00 -0800 (PST)
+	Line 23983: Date: Mon, 30 Oct 2000 01:14:00 -0800 (PST)
+	Line 24101: Date: Fri, 27 Oct 2000 00:17:00 -0700 (PDT)
+	Line 24354: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 25727: Date: Mon, 2 Oct 2000 02:19:00 -0700 (PDT)
+	Line 25922: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 26104: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 26852: Date: Fri, 22 Sep 2000 00:06:00 -0700 (PDT)
+	Line 27183: Date: Mon, 18 Sep 2000 02:34:00 -0700 (PDT)
+	Line 27349: Date: Tue, 12 Sep 2000 00:27:00 -0700 (PDT)
+	Line 27534: Date: Mon, 11 Sep 2000 02:19:00 -0700 (PDT)
+	Line 29039: Date: Fri, 25 Aug 2000 01:58:00 -0700 (PDT)
+	Line 29247: Date: Fri, 25 Aug 2000 01:47:00 -0700 (PDT)
+	Line 29282: Date: Thu, 24 Aug 2000 02:48:00 -0700 (PDT)
+	Line 29461: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+	Line 29503: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+	Line 29542: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+	Line 29836: Date: Thu, 10 Aug 2000 01:52:00 -0700 (PDT)
+	Line 30362: Date: Mon, 7 Aug 2000 02:14:00 -0700 (PDT)
+	Line 30384: Date: Mon, 7 Aug 2000 00:06:00 -0700 (PDT)
+	Line 30628: Date: Thu, 3 Aug 2000 00:12:00 -0700 (PDT)
+	Line 30920: Date: Tue, 18 Jul 2000 02:38:00 -0700 (PDT)
+	Line 31286: Date: Tue, 11 Jul 2000 02:50:00 -0700 (PDT)
+	Line 31303: Date: Tue, 11 Jul 2000 02:12:00 -0700 (PDT)
+	Line 32066: Date: Thu, 22 Jun 2000 00:26:00 -0700 (PDT)
+	Line 32616: Date: Fri, 26 May 2000 00:08:00 -0700 (PDT)
+	Line 32716: ""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
+	Line 32914: Date: Thu, 11 May 2000 01:16:00 -0700 (PDT)
+	Line 32959: Date: Fri, 28 Apr 2000 02:05:00 -0700 (PDT)
+	Line 33114: Date: Wed, 26 Apr 2000 01:42:00 -0700 (PDT)
+	Line 33142: Date: Wed, 26 Apr 2000 01:38:00 -0700 (PDT)
+	Line 33227: Date: Mon, 24 Apr 2000 00:00:00 -0700 (PDT)
+	Line 33404: Date: Thu, 30 Mar 2000 01:58:00 -0800 (PST)
+	Line 33491: Date: Wed, 13 Dec 2000 02:33:00 -0800 (PST)
+	Line 33607: Date: Fri, 24 Mar 2000 01:00:00 -0800 (PST)
+	Line 33635: Date: Thu, 23 Mar 2000 01:32:00 -0800 (PST)
+	Line 33691: Date: Wed, 22 Mar 2000 01:27:00 -0800 (PST)
+	Line 33727: Date: Wed, 22 Mar 2000 00:36:00 -0800 (PST)
+	Line 33779: Date: Mon, 20 Mar 2000 00:58:00 -0800 (PST)
+	Line 33832: Date: Wed, 13 Dec 2000 02:28:00 -0800 (PST)
+	Line 33911: Date: Wed, 15 Mar 2000 02:00:00 -0800 (PST)
+	Line 34122: Date: Mon, 13 Mar 2000 02:22:00 -0800 (PST)
+	Line 34186: Date: Wed, 13 Dec 2000 02:17:00 -0800 (PST)
+	Line 34361: Date: Fri, 3 Mar 2000 02:53:00 -0800 (PST)
+	Line 34379: Date: Fri, 3 Mar 2000 00:39:00 -0800 (PST)
+	Line 34622: Date: Mon, 21 Feb 2000 00:07:00 -0800 (PST)
+	Line 34660: ""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+	Line 35129: Date: Thu, 10 Feb 2000 01:46:00 -0800 (PST)
+	Line 35164: Date: Wed, 9 Feb 2000 02:27:00 -0800 (PST)
+	Line 35224: Date: Wed, 9 Feb 2000 02:12:00 -0800 (PST)
+	Line 35339: ""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+	Line 35572: enorman@living.com on 01/18/2000 02:44:50 PM
+	Line 35688: Date: Mon, 17 Jan 2000 00:47:00 -0800 (PST)
+	Line 35771: Date: Thu, 13 Jan 2000 02:30:00 -0800 (PST)
+	Line 35822: Date: Mon, 10 Jan 2000 02:29:00 -0800 (PST)
+	Line 35842: Date: Mon, 10 Jan 2000 01:43:00 -0800 (PST)
+	Line 36169: 02:49:43 AM
+	Line 38054: Date: Mon, 14 May 2001 01:39:00 -0700 (PDT)
+	Line 38344: Date: Thu, 10 May 2001 00:50:00 -0700 (PDT)
+	Line 38429: Date: Mon, 7 May 2001 02:28:00 -0700 (PDT)
+	Line 38750: Date: Fri, 4 May 2001 01:51:00 -0700 (PDT)
+	Line 38831: Date: Wed, 2 May 2001 00:36:00 -0700 (PDT)
+	Line 39528: Date: Thu, 26 Apr 2001 01:34:00 -0700 (PDT)
+	Line 39925: Date: Tue, 24 Apr 2001 02:27:00 -0700 (PDT)
+	Line 39955: Date: Tue, 24 Apr 2001 02:13:00 -0700 (PDT)
+	Line 40296: Date: Mon, 23 Apr 2001 02:41:00 -0700 (PDT)
+	Line 40482: Date: Wed, 18 Apr 2001 01:22:00 -0700 (PDT)
+	Line 40503: Date: Wed, 18 Apr 2001 01:11:00 -0700 (PDT)
+	Line 40743: Date: Thu, 12 Apr 2001 02:59:00 -0700 (PDT)
+	Line 41030: Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+	Line 41111: Date: Mon, 9 Apr 2001 02:34:00 -0700 (PDT)
+	Line 41153: Date: Fri, 6 Apr 2001 02:40:00 -0700 (PDT)
+	Line 41207: Date: Wed, 4 Apr 2001 00:19:00 -0700 (PDT)
+	Line 41244: Date: Tue, 3 Apr 2001 01:53:00 -0700 (PDT)
+	Line 41287: Date: Tue, 3 Apr 2001 01:30:00 -0700 (PDT)
+	Line 41689: Date: Thu, 29 Mar 2001 02:19:00 -0800 (PST)
+	Line 41752: Date: Thu, 29 Mar 2001 02:11:00 -0800 (PST)
+	Line 41838: Date: Thu, 29 Mar 2001 02:03:00 -0800 (PST)
+	Line 41951: Date: Thu, 29 Mar 2001 01:41:00 -0800 (PST)
+	Line 42128: Date: Thu, 7 Dec 2000 01:55:00 -0800 (PST)
+	Line 42154: Date: Wed, 28 Mar 2001 01:56:00 -0800 (PST)
+	Line 42318: Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+	Line 42488: Date: Mon, 26 Mar 2001 02:58:00 -0800 (PST)
+	Line 42526: Date: Thu, 7 Dec 2000 01:09:00 -0800 (PST)
+	Line 42774: Date: Mon, 26 Mar 2001 02:03:00 -0800 (PST)
+	Line 42858: Date: Mon, 26 Mar 2001 00:35:00 -0800 (PST)
+	Line 43000: Date: Mon, 19 Mar 2001 02:38:00 -0800 (PST)
+	Line 43026: Date: Mon, 19 Mar 2001 01:25:00 -0800 (PST)
+	Line 43096: Date: Mon, 19 Mar 2001 02:00:00 -0800 (PST)
+	Line 43147: Date: Mon, 19 Mar 2001 01:36:00 -0800 (PST)
+	Line 43177: Date: Mon, 19 Mar 2001 00:45:00 -0800 (PST)
+	Line 44001: Date: Tue, 13 Mar 2001 01:10:00 -0800 (PST)
+	Line 44341: Date: Wed, 7 Mar 2001 02:36:00 -0800 (PST)
+	Line 44358: Date: Wed, 7 Mar 2001 01:52:00 -0800 (PST)
+	Line 44406: Date: Tue, 6 Mar 2001 02:55:00 -0800 (PST)
+	Line 44431: Date: Tue, 6 Mar 2001 02:45:00 -0800 (PST)
+	Line 44693: Date: Mon, 5 Mar 2001 01:38:00 -0800 (PST)
+	Line 44741: liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+	Line 44778: liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+	Line 44808: Date: Tue, 27 Feb 2001 00:58:00 -0800 (PST)
+	Line 44829: Date: Sat, 24 Feb 2001 01:24:00 -0800 (PST)
+	Line 45120: Date: Thu, 22 Feb 2001 00:45:00 -0800 (PST)
+	Line 45257: ""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+	Line 45294: ""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+	Line 45687: Date: Tue, 20 Feb 2001 01:38:00 -0800 (PST)
+	Line 45733: Date: Tue, 20 Feb 2001 01:09:00 -0800 (PST)
+	Line 45754: Date: Tue, 20 Feb 2001 00:46:00 -0800 (PST)
+	Line 45943: Date: Thu, 30 Nov 2000 01:55:00 -0800 (PST)
+	Line 45979: Date: Fri, 16 Feb 2001 02:15:00 -0800 (PST)
+	Line 46005: Date: Fri, 16 Feb 2001 01:48:00 -0800 (PST)
+	Line 46033: Date: Fri, 16 Feb 2001 00:52:00 -0800 (PST)
+	Line 46238: Date: Wed, 14 Feb 2001 00:24:00 -0800 (PST)
+	Line 46591: Date: Fri, 9 Feb 2001 01:27:00 -0800 (PST)
+	Line 46711: Date: Wed, 7 Feb 2001 01:58:00 -0800 (PST)
+	Line 46759: Date: Wed, 29 Nov 2000 02:02:00 -0800 (PST)
+	Line 46941: Date: Tue, 6 Feb 2001 01:52:00 -0800 (PST)
+	Line 46970: Date: Tue, 6 Feb 2001 01:01:00 -0800 (PST)
+	Line 47037: Date: Mon, 5 Feb 2001 00:45:00 -0800 (PST)
+	Line 47286: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+	Line 48284: Date: Fri, 26 Jan 2001 01:57:00 -0800 (PST)
+	Line 48305: Date: Fri, 26 Jan 2001 01:55:00 -0800 (PST)
+	Line 48351: Date: Fri, 26 Jan 2001 01:41:00 -0800 (PST)
+	Line 48595: Date: Thu, 25 Jan 2001 02:11:00 -0800 (PST)
+	Line 48629: Date: Thu, 25 Jan 2001 00:17:00 -0800 (PST)
+	Line 48814: Date: Mon, 22 Jan 2001 01:24:00 -0800 (PST)
+	Line 49023: Date: Mon, 22 Jan 2001 00:38:00 -0800 (PST)
+	Line 49061: Date: Mon, 22 Jan 2001 00:34:00 -0800 (PST)
+	Line 49078: Date: Thu, 18 Jan 2001 02:12:00 -0800 (PST)
+	Line 49123: Date: Thu, 18 Jan 2001 02:08:00 -0800 (PST)
+	Line 49421: Date: Fri, 17 Nov 2000 00:27:00 -0800 (PST)
+	Line 49916: Date: Tue, 2 Jan 2001 01:36:00 -0800 (PST)
+	Line 49967: Date: Fri, 29 Dec 2000 02:14:00 -0800 (PST)
+	Line 50415: Date: Fri, 22 Dec 2000 01:54:00 -0800 (PST)
+	Line 50438: Date: Fri, 22 Dec 2000 01:21:00 -0800 (PST)
+	Line 50892: Date: Thu, 14 Dec 2000 02:11:00 -0800 (PST)
+	Line 50909: Date: Thu, 14 Dec 2000 02:08:00 -0800 (PST)
+	Line 51190: SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+	Line 51389: Date: Thu, 2 Nov 2000 02:36:00 -0800 (PST)
+	Line 51726: Date: Mon, 30 Oct 2000 01:14:00 -0800 (PST)
+	Line 51884: Date: Fri, 27 Oct 2000 00:17:00 -0700 (PDT)
+	Line 52137: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 52482: Date: Tue, 17 Oct 2000 02:26:00 -0700 (PDT)
+	Line 52530: ""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+	Line 64153: Date: Mon, 24 Dec 2001 01:12:49 -0800 (PST)
+	Line 66151: Date: Mon, 19 Nov 2001 01:09:57 -0800 (PST)
+	Line 68150: Date: Wed, 21 Nov 2001 00:42:33 -0800 (PST)
+	Line 72666: Date: Wed, 19 Dec 2001 01:19:29 -0800 (PST)
+	Line 73065: Date: Thu, 18 Oct 2001 00:41:45 -0700 (PDT)
+	Line 73453: Date: Wed, 17 Oct 2001 02:40:06 -0700 (PDT)
+	Line 74694: Date: Thu, 13 Jan 2000 02:30:00 -0800 (PST)
+	Line 74816: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+	Line 74855: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+	Line 74894: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+	Line 75015: Date: Fri, 25 Aug 2000 01:47:00 -0700 (PDT)
+	Line 75136: Date: Mon, 17 Jan 2000 00:47:00 -0800 (PST)
+	Line 75543: enorman@living.com on 01/18/2000 02:44:50 PM
+	Line 76549: Date: Tue, 12 Sep 2000 00:27:00 -0700 (PDT)
+	Line 77017: Date: Fri, 22 Sep 2000 00:06:00 -0700 (PDT)
+	Line 77648: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 77830: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 78485: ""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+	Line 78688: ""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+	Line 78841: ""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+	Line 79123: Date: Wed, 9 Feb 2000 02:27:00 -0800 (PST)
+	Line 79259: Date: Mon, 30 Oct 2000 01:14:00 -0800 (PST)
+	Line 79420: Date: Thu, 2 Nov 2000 02:36:00 -0800 (PST)
+	Line 79576: SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+	Line 79626: Date: Thu, 10 Feb 2000 01:46:00 -0800 (PST)
+	Line 79918: Date: Fri, 17 Nov 2000 00:27:00 -0800 (PST)
+	Line 79988: ""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+	Line 80002: Date: Wed, 29 Nov 2000 02:02:00 -0800 (PST)
+	Line 80065: Date: Thu, 30 Nov 2000 01:55:00 -0800 (PST)
+	Line 80259: Date: Thu, 7 Dec 2000 01:09:00 -0800 (PST)
+	Line 80507: Date: Thu, 7 Dec 2000 01:55:00 -0800 (PST)
+	Line 80785: 02:49:43 AM
+	Line 81171: Date: Wed, 13 Dec 2000 02:17:00 -0800 (PST)
+	Line 81201: Date: Wed, 13 Dec 2000 02:33:00 -0800 (PST)
+	Line 83277: Date: Mon, 21 Feb 2000 00:07:00 -0800 (PST)
+	Line 83315: ""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+	Line 83438: Date: Fri, 3 Mar 2000 00:39:00 -0800 (PST)
+	Line 83793: Date: Thu, 14 Dec 2000 02:08:00 -0800 (PST)
+	Line 84035: Date: Fri, 22 Dec 2000 01:21:00 -0800 (PST)
+	Line 84382: Date: Fri, 29 Dec 2000 02:14:00 -0800 (PST)
+	Line 84491: Date: Tue, 2 Jan 2001 01:36:00 -0800 (PST)
+	Line 84994: Date: Thu, 18 Jan 2001 02:08:00 -0800 (PST)
+	Line 85017: Date: Thu, 18 Jan 2001 02:12:00 -0800 (PST)
+	Line 85100: Date: Wed, 22 Mar 2000 00:36:00 -0800 (PST)
+	Line 85122: Date: Mon, 22 Jan 2001 01:24:00 -0800 (PST)
+	Line 85460: Date: Thu, 25 Jan 2001 00:17:00 -0800 (PST)
+	Line 85516: Date: Thu, 25 Jan 2001 02:11:00 -0800 (PST)
+	Line 85655: Date: Fri, 26 Jan 2001 01:41:00 -0800 (PST)
+	Line 85743: Date: Fri, 26 Jan 2001 01:55:00 -0800 (PST)
+	Line 86541: Date: Fri, 24 Mar 2000 01:00:00 -0800 (PST)
+	Line 86729: Date: Mon, 5 Feb 2001 00:45:00 -0800 (PST)
+	Line 86799: Date: Tue, 6 Feb 2001 01:01:00 -0800 (PST)
+	Line 86843: Date: Tue, 6 Feb 2001 01:52:00 -0800 (PST)
+	Line 87005: Date: Wed, 7 Feb 2001 01:58:00 -0800 (PST)
+	Line 87139: Date: Fri, 9 Feb 2001 01:27:00 -0800 (PST)
+	Line 87382: Date: Wed, 14 Feb 2001 00:24:00 -0800 (PST)
+	Line 87589: Date: Fri, 16 Feb 2001 00:52:00 -0800 (PST)
+	Line 87658: Date: Fri, 16 Feb 2001 02:15:00 -0800 (PST)
+	Line 87828: Date: Tue, 20 Feb 2001 00:46:00 -0800 (PST)
+	Line 88187: ""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+	Line 88243: ""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+	Line 88313: Date: Thu, 22 Feb 2001 00:45:00 -0800 (PST)
+	Line 88455: Date: Sat, 24 Feb 2001 01:24:00 -0800 (PST)
+	Line 88506: Date: Tue, 27 Feb 2001 00:58:00 -0800 (PST)
+	Line 88547: liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+	Line 88584: liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+	Line 88810: Date: Tue, 6 Mar 2001 02:45:00 -0800 (PST)
+	Line 89197: Date: Tue, 13 Mar 2001 01:10:00 -0800 (PST)
+	Line 89725: Date: Wed, 26 Apr 2000 01:38:00 -0700 (PDT)
+	Line 89947: Date: Mon, 19 Mar 2001 01:36:00 -0800 (PST)
+	Line 89977: Date: Mon, 19 Mar 2001 02:00:00 -0800 (PST)
+	Line 90028: Date: Mon, 19 Mar 2001 02:38:00 -0800 (PST)
+	Line 90153: Date: Wed, 26 Apr 2000 01:42:00 -0700 (PDT)
+	Line 90181: Date: Mon, 26 Mar 2001 02:03:00 -0800 (PST)
+	Line 90405: Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+	Line 90548: Date: Wed, 28 Mar 2001 01:56:00 -0800 (PST)
+	Line 90814: Date: Thu, 29 Mar 2001 01:41:00 -0800 (PST)
+	Line 90881: Date: Thu, 29 Mar 2001 02:03:00 -0800 (PST)
+	Line 90994: Date: Thu, 29 Mar 2001 02:11:00 -0800 (PST)
+	Line 91080: Date: Thu, 29 Mar 2001 02:19:00 -0800 (PST)
+	Line 91474: Date: Tue, 3 Apr 2001 01:53:00 -0700 (PDT)
+	Line 91517: Date: Wed, 4 Apr 2001 00:19:00 -0700 (PDT)
+	Line 91554: Date: Fri, 28 Apr 2000 02:05:00 -0700 (PDT)
+	Line 91602: Date: Fri, 6 Apr 2001 02:40:00 -0700 (PDT)
+	Line 91677: Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+	Line 92031: Date: Wed, 18 Apr 2001 01:11:00 -0700 (PDT)
+	Line 92091: Date: Wed, 18 Apr 2001 01:22:00 -0700 (PDT)
+	Line 92182: Date: Mon, 23 Apr 2001 02:41:00 -0700 (PDT)
+	Line 92218: Date: Tue, 24 Apr 2001 02:13:00 -0700 (PDT)
+	Line 92249: Date: Tue, 24 Apr 2001 02:27:00 -0700 (PDT)
+	Line 92508: ""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
+	Line 93087: Date: Wed, 2 May 2001 00:36:00 -0700 (PDT)
+	Line 93404: Date: Mon, 7 May 2001 02:28:00 -0700 (PDT)
+	Line 93533: Date: Thu, 10 May 2001 00:50:00 -0700 (PDT)
+	Line 96277: Date: Mon, 10 Jan 2000 01:43:00 -0800 (PST)
+	Line 96734: Date: Mon, 10 Jan 2000 02:25:00 -0800 (PST)
+	Line 97098: Date: Mon, 7 Aug 2000 00:06:00 -0700 (PDT)
+	Line 97756: Date: Mon, 31 Dec 2001 02:24:51 -0800 (PST)
+Search "[\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b\>" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b\>" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\n\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\n\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\n\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\n\t\s\<]+[oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11585: Outlook 2000 question and answer Mailbox at:
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39071: Outlook 2000 question and answer Mailbox at:
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92994: Outlook 2000 question and answer Mailbox at:
+Search "[\n\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\n\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "[\t\s\<][oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (34 hits in 1 file)
+  new 3 (34 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30117: in the subject line, or send a blank e-mail to
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54429: you prefer not to receive emails of this nature please send an email to rem=
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 81774: in the subject line, or send a blank e-mail to
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+Search "\b^(?! \.)[oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (3 hits in 1 file)
+  new 3 (3 hits)
+	Line 30118: off-yild@zdemail.zdlists.com.
+	Line 54430: ove@commissioner.com . Do not respond to this email directly.   =09
+	Line 81775: off-yild@zdemail.zdlists.com.
+Search "\b[oO].[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (126 hits in 1 file)
+  new 3 (126 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 9886: To: kimberly.olinger@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30118: off-yild@zdemail.zdlists.com.
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35267: To: kimberly.olinger@enron.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54430: ove@commissioner.com . Do not respond to this email directly.   =09
+	Line 55073: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 55073: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 55089: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 55099: 	john.lavorato@enron.com, martin.o'leary@enron.com, 
+	Line 55118: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 55134: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 55284: 	david.oxley@enron.com, joseph.deffner@enron.com, 
+	Line 55291: 	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+	Line 55740: -209-5583, mike.o'neill@aexp.com, both of American Express URL:            =
+	Line 57355: From: ryan.o'rourke@enron.com
+	Line 57574: 	david.oxley@enron.com, joseph.deffner@enron.com, 
+	Line 57581: 	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+	Line 58195: To: k..allen@enron.com, tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 59074: From: ryan.o'rourke@enron.com
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 60798: To: k..allen@enron.com, tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 63081: From: chairman.office@enron.com
+	Line 63443: 	wes.colwell@enron.com, sally.beck@enron.com, david.oxley@enron.com, 
+	Line 63451: 	lucy.ortiz@enron.com, josey'.'scott@enron.com, 
+	Line 63754: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 63754: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 63770: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 63780: 	john.lavorato@enron.com, martin.o'leary@enron.com, 
+	Line 63799: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 63815: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 64845: 	preston.ochsner@enron.com, seung-taek.oh@enron.com, 
+	Line 64846: 	steve.olinde@enron.com, michael.olsen@enron.com, 
+	Line 64846: 	steve.olinde@enron.com, michael.olsen@enron.com, 
+	Line 64847: 	paulita.olvera@enron.com, justin.o'malley@enron.com, 
+	Line 64847: 	paulita.olvera@enron.com, justin.o'malley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 65817: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 65817: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 65833: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 65843: 	john.lavorato@enron.com, martin.o'leary@enron.com, 
+	Line 65862: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 65878: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 66128: 	shelly.mendel@enron.com, john.o'conner@enron.com, 
+	Line 66216: 	matthew.lenhart@enron.com, ryan.o'rourke@enron.com, 
+	Line 66574: 	shelly.mendel@enron.com, john.o'conner@enron.com, 
+	Line 66819: 	matthew.lenhart@enron.com, ryan.o'rourke@enron.com, 
+	Line 67580: 	ryan.o'rourke@enron.com, jay.reitmeyer@enron.com, p..south@enron.com, 
+	Line 68549: From: ryan.o'rourke@enron.com
+	Line 68554: 	matthew.lenhart@enron.com, ryan.o'rourke@enron.com, 
+	Line 68944: 	shelly.mendel@enron.com, john.o'conner@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 69217: 	shelly.mendel@enron.com, john.o'conner@enron.com, 
+	Line 69233: 	shelly.mendel@enron.com, john.o'conner@enron.com, 
+	Line 69259: 	matthew.lenhart@enron.com, ryan.o'rourke@enron.com, 
+	Line 69549: From: david.oxley@enron.com
+	Line 69916: Cc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+	Line 69921: Bcc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+	Line 69925: X-cc: 'jonathan.o.stahl@accenture.com', O'rourke, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Torourke>, Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>, Coleman, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bcolema>, Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcash>, McDaniel, Kirk </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=151b1f73-1f0d9c60-8625697b-63e5ad>
+	Line 70054: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70058: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70101: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com, k..allen@enron.com
+	Line 70105: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com, k..allen@enron.com
+	Line 70129: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com, k..allen@enron.com
+	Line 70133: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com, k..allen@enron.com
+	Line 70332: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70336: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70364: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70368: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70385: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70389: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70410: Cc: k..allen@enron.com, tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70414: Bcc: k..allen@enron.com, tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 70476: Cc: tim.o'rourke@enron.com, brad.coleman@enron.com, kirk.mcdaniel@enron.com
+	Line 70480: Bcc: tim.o'rourke@enron.com, brad.coleman@enron.com, kirk.mcdaniel@enron.com
+	Line 70701: 	matthew.lenhart@enron.com, ryan.o'rourke@enron.com, 
+	Line 71199: Cc: michelle.cash@enron.com, k..allen@enron.com, tim.o'rourke@enron.com, 
+	Line 71204: Bcc: michelle.cash@enron.com, k..allen@enron.com, tim.o'rourke@enron.com, 
+	Line 71240:                                          Tim.O'Rourke@enron.com, Yevgeny.Frolov@enron.com, Sheri A.
+	Line 71340: jonathan.o.stahl@accenture.com
+	Line 71522: From: david.oxley@enron.com
+	Line 71775: From: ryan.o'rourke@enron.com
+	Line 71780: 	stephanie.miller@enron.com, ryan.o'rourke@enron.com, 
+	Line 71800: From: tim.o'rourke@enron.com
+	Line 72805: 	s..olinger@enron.com, victor.munoz@enron.com, 
+	Line 72806: 	patti.sullivan@enron.com, h..otto@enron.com, c..giron@enron.com, 
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 74200: 	s..muller@enron.com, julia.murray@enron.com, cindy.olson@enron.com, 
+	Line 81775: off-yild@zdemail.zdlists.com.
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+	Line 97795: 	david.oxley@enron.com
+	Line 100306: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 100310: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 100393: Cc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 100397: Bcc: tim.o'rourke@enron.com, yevgeny.frolov@enron.com
+	Line 100478: To: michelle.cash@enron.com, k..allen@enron.com, tim.o'rourke@enron.com, 
+	Line 100572: jonathan.o.stahl@accenture.com
+	Line 100800: From: ryan.o'rourke@enron.com
+	Line 101292: From: david.oxley@enron.com
+Search "\b(История БИС-172)|(БИС-172)|(История 172)|(ИсторияБИС172)|(История БИС172)\b" (46 hits in 1 file)
+  new 4 (46 hits)
+	Line 83: История 172
+	Line 97: История 172
+	Line 101: История БИС172
+	Line 102: История БИС172
+	Line 103: История БИС172
+	Line 104: История 172
+	Line 108: История БИС172
+	Line 110: История БИС-172
+	Line 112: История 172
+	Line 115: История 172
+	Line 116: История БИС172
+	Line 118: История 172
+	Line 120: История 172
+	Line 128: История БИС-172
+	Line 134: История БИС172
+	Line 135: История бис172
+	Line 137: История БИС172
+	Line 138: История БИС172
+	Line 146: История БИС172
+	Line 149: История БИС-172
+	Line 156: История 172
+	Line 163: История 172
+	Line 168: История 172
+	Line 170: История БИС172
+	Line 173: История 172
+	Line 174: История 172
+	Line 182: История 172
+	Line 195: История БИС172
+	Line 198: История БИС172
+	Line 202: История БИС172
+	Line 213: История БИС-172
+	Line 229: История БИС172
+	Line 236: История 172
+	Line 237: История БИС172
+	Line 239: История 172
+	Line 241: История 172
+	Line 244: История БИС172
+	Line 247: История 172
+	Line 275: История БИС-172
+	Line 281: История 172
+	Line 288: История 172
+	Line 293: История 172
+	Line 294: История БИС172
+	Line 296: История 172
+	Line 299: История 172
+	Line 305: История 172
+Search "\b[oO][A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,4}\b" (81 hits in 1 file)
+  new 3 (81 hits)
+	Line 5389: To: outlook.team@enron.com
+	Line 9886: To: kimberly.olinger@enron.com
+	Line 10713: To: outlook.team@enron.com
+	Line 11587:  Outlook.2000@enron.com
+	Line 13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 30118: off-yild@zdemail.zdlists.com.
+	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35267: To: kimberly.olinger@enron.com
+	Line 35982: Sender: owner-strawbale@crest.org
+	Line 36031: From: owner-strawbale@crest.org
+	Line 36036: X-From: owner-strawbale@crest.org
+	Line 36055: Sender: owner-strawbale@crest.org
+	Line 38056: To: outlook.team@enron.com
+	Line 39073:  Outlook.2000@enron.com
+	Line 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 52637: From: outlook-migration-team@enron.com
+	Line 52653: From: outlook-migration-team@enron.com
+	Line 54430: ove@commissioner.com . Do not respond to this email directly.   =09
+	Line 55073: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 55073: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 55089: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 55118: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 55134: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 55284: 	david.oxley@enron.com, joseph.deffner@enron.com, 
+	Line 55291: 	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+	Line 56363: 	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+	Line 57574: 	david.oxley@enron.com, joseph.deffner@enron.com, 
+	Line 57581: 	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+	Line 59228: From: online.service@schwab.com
+	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	Line 63081: From: chairman.office@enron.com
+	Line 63443: 	wes.colwell@enron.com, sally.beck@enron.com, david.oxley@enron.com, 
+	Line 63451: 	lucy.ortiz@enron.com, josey'.'scott@enron.com, 
+	Line 63754: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 63754: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 63770: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 63799: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 63815: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	Line 64845: 	preston.ochsner@enron.com, seung-taek.oh@enron.com, 
+	Line 64845: 	preston.ochsner@enron.com, seung-taek.oh@enron.com, 
+	Line 64846: 	steve.olinde@enron.com, michael.olsen@enron.com, 
+	Line 64846: 	steve.olinde@enron.com, michael.olsen@enron.com, 
+	Line 64847: 	paulita.olvera@enron.com, justin.o'malley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 64848: 	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	Line 65817: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 65817: 	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	Line 65833: 	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	Line 65862: 	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	Line 65878: 	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	Line 68977: From: open2win.0ll1.net@mailman.enron.com
+	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+	Line 69549: From: david.oxley@enron.com
+	Line 69916: Cc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+	Line 69921: Bcc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+	Line 69925: X-cc: 'jonathan.o.stahl@accenture.com', O'rourke, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Torourke>, Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>, Coleman, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bcolema>, Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcash>, McDaniel, Kirk </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=151b1f73-1f0d9c60-8625697b-63e5ad>
+	Line 71340: jonathan.o.stahl@accenture.com
+	Line 71522: From: david.oxley@enron.com
+	Line 72805: 	s..olinger@enron.com, victor.munoz@enron.com, 
+	Line 72806: 	patti.sullivan@enron.com, h..otto@enron.com, c..giron@enron.com, 
+	Line 73066: From: oportunity@cells4free.com
+	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	Line 74200: 	s..muller@enron.com, julia.murray@enron.com, cindy.olson@enron.com, 
+	Line 81775: off-yild@zdemail.zdlists.com.
+	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85063: From: owner-strawbale@crest.org
+	Line 85068: X-From: owner-strawbale@crest.org
+	Line 85087: Sender: owner-strawbale@crest.org
+	Line 86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90620: Sender: owner-strawbale@crest.org
+	Line 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+	Line 92996:  Outlook.2000@enron.com
+	Line 97795: 	david.oxley@enron.com
+	Line 99474: 	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+	Line 99692: 	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+	Line 100572: jonathan.o.stahl@accenture.com
+	Line 101292: From: david.oxley@enron.com
